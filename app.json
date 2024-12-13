@@ -4,11 +4,11 @@
     "slug": "User-Directory",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon.jpg",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/User-splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
